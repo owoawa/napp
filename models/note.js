@@ -1,5 +1,6 @@
 const mongoose = require('mongoose')
 
+//test
 const url = "mongodb://test:test@cluster0-shard-00-00.mlsx3.mongodb.net:27017,cluster0-shard-00-01.mlsx3.mongodb.net:27017,cluster0-shard-00-02.mlsx3.mongodb.net:27017/note-app?ssl=true&replicaSet=atlas-9igbcr-shard-0&authSource=admin&retryWrites=true&w=majority"
 console.log('connecting to', url)
 
